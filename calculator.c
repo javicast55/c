@@ -4,10 +4,10 @@ int main(void)
     int x;
     int y;
 
-    printf("Tell me your a number: ");
+    printf("First tell me a number: ");
     scanf("%i", &x);
 
-    printf("Tell me a second number: ");
+    printf("Now tell me a second number: ");
     scanf("%i", &y);
 
     int total = x + y; 
