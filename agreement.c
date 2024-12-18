@@ -4,7 +4,7 @@ int main(void)
 {
     char c;
 
-    printf("Do you agree?: Type \"y\" or \"n\" ");
+    printf("Do you agree with this?: Type \"y\" or \"n\" ");
     scanf("%c",&c);
 
     if (tolower(c) == 'y')
