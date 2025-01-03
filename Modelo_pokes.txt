@@ -1,0 +1,6 @@
+POKES vende productos a los clientes, mediante una remisión o factura, la cual tiene detalles de los productos y de los clientes, el valor unitario, subtotales y el valor total.
+
+POKES compra productos a los proveedores mediante una factura de compra, la cual tiene detalles de los productos y de pokes, el valor unitario, subtotales, IVA y valor total.
+
+POKES le paga a mensajeros para llevar los productos mediante la remisión o factura, estos entregan los productos y cobran el dinero, el dinero entra a la caja.
+
